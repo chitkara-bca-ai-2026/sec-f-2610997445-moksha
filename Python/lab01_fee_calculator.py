@@ -4,7 +4,7 @@ library_fee=float(input("Enter Library Fee: "))
 exam_fee=float(input("Enter Exam Fee: "))
 discount=float(input("Enter Discount Amount: "))
 print()
-               
+                
 total_fee=tuition_fee+lab_fee+library_fee+exam_fee
 fee_after_discount=total_fee-discount
 annual_fee=fee_after_discount*2
