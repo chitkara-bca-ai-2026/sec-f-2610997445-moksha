@@ -1,0 +1,3 @@
+    : {product_name}")
+print(f"Price per Unit  : Rs. {price:.2f}")
+print(f"
